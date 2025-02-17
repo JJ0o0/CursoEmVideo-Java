@@ -1,0 +1,16 @@
+Nessa aula, foi explicado a diferença do Java para outras linguagens.
+
+O Java usa uma maneira diferente de compilação do código:
+
+CÓDIGO ► COMPILADOR ► BYTECODE ► JVM ► EXECUTÁVEL
+
+Primeiro o compilador transforma o código em bytecode, para a JVM (Java Virtual Machine) converter para executável.
+
+Isso faz o Java ser WORA (Write Once, Run Anywhere), porque é só preciso compilar e escrever uma única vez para ser
+executável em vários dispositivos.
+
+Também, para devs é necessário ter o JDK (Java Development Kit), 
+Já para usuários, é preciso ter o JRE (Java Runtime Enviromnent).
+
+O JRE é composto pela JVM e as Libraries.
+O JDK é composto pela JRE, JavaLang e JavaTools.
