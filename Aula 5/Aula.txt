@@ -1,0 +1,4 @@
+Nessa aula, fizemos um monte de coisas.
+
+Aprendemos a programar uma janela em Swing e JavaFX, também aprendemos a como distribuir o código fonte dos projetos
+e o executável .jar.
