@@ -13,7 +13,7 @@ public class Pratica {
         
         Locale lugar = Locale.getDefault();
         System.out.print("Seu sistema está em ");
-        System.out.println(lugar.toLanguageTag());
+        System.out.println(lugar.getDisplayLanguage());
         
         Dimension tela = Toolkit.getDefaultToolkit().getScreenSize();
         System.out.print("Sua tela tem resolução ");
