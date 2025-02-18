@@ -1,0 +1,8 @@
+Aprendemos sobre tipos primitivos:
+
+Lógico: boolean
+Literal: char
+Inteiro: byte, short, int, long
+Real: float, double
+
+Além disso, usamos input e conversão de dados.
