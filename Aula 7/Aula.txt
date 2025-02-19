@@ -1,0 +1,7 @@
+Usamos os operadores aritméticos para calculos matemáticos
+
++ - * / %
+++ --
++= -= *= /= %=
+
+E usamos a classe Math para operações mais avançadas
