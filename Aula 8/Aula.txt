@@ -1,0 +1,4 @@
+Aprendemos mais sobre os operadores.
+
+< > <= >= !=
+&& || ^ !
